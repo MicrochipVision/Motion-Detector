@@ -1,4 +1,4 @@
-<h1 align="center">Advanced Keylogger💥</h1>
+<h1 align="center">Motion Detector💥</h1>
 
 `Open-Cv based advanced motion detection system that can turn on alarm if it can detect motion .🙂`
 
