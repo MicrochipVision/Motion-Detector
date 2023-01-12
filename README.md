@@ -28,7 +28,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 
 ## Usage/Examples ðŸŽƒ
 
-```text
+```javascript
 Run the following command on PowerShell:
  1. pip install opencv-python
  2. pip install numpy
