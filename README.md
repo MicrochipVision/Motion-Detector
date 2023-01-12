@@ -28,12 +28,12 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 
 ## Usage/Examples ðŸŽƒ
 
-```python
+```text
 Run the following command on PowerShell:
- 1. pip install opencv-python
- 2. pip install numpy
- 3. pip install DateTime
- 4. pip install pygame
+ 1. pip install ***opencv-python***
+ 2. pip install ***numpy***
+ 3. pip install ***DateTime***
+ 4. pip install ***pygame***
  
 After executing the follwing command
      
